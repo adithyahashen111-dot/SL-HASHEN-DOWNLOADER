@@ -4,7 +4,7 @@
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "start": "node index.js",
+      "start":"node index.js",
       "stop": "pm2 stop robin",
      "restart": "pm2 restart robin"
     },
